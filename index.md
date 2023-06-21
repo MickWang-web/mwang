@@ -2,32 +2,31 @@
 
 ---
 
-### Category Name 1 
+### Working Experience
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Time](/sample_page):2011.04 - 2012.09
+Huawei Software Engineer
+Object Storge System developer, metadata manangement system API Design/Dev
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Time]():2012.10 - 2021.06
+IBM Shenzhen DBA
+DB2 for zOS, DB2 for AIX , DB2 for LUW Shell coding and maintenance 
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Time]():2021.06 - 2023.05
+Kyndryl DBA and Data Engineer
+Kubernetes App maintenance and coding, Database sytemctl design&maintenance 
 
 ---
 
+### Certificate
 
+- [RHCA]()
+- [CKA]()
+- [IBM Cloud Architect]
+
+---
 
 
 ---
