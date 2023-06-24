@@ -1,17 +1,1 @@
-title: Min Wang # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Education Background:
-  <br>Bacherlor's degree in<br>
-  <br>Computer Science<br>
-  <br>Wuhan University<br>
-  Key Skills:
-  <br>DBA(DB2) NoSQL(eg.Cassandra) BI <br>
-  <br>Kubernetes Cloud(AliCloud Azure IBMCloud)<br>
-  <br>RedHat Ansible Shell <br>
-  <a href="https://www.linkedin.com/in/wang-min-b7b183280">View My LinkedIn Profile</a> 
-  
-#remote_theme: pages-themes/minimal@v0.2.0
-#plugins:
-#- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
