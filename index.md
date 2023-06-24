@@ -21,8 +21,8 @@ Kubernetes App maintenance and coding, Database sytemctl design&maintenance
 ---
 
 ### Certificate
-- [RHCA]()
-- [CKA]()
+- [RHCA]
+- [CKA]
 - [IBM Cloud Architect]
 
 ---
