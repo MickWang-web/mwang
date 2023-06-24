@@ -27,5 +27,3 @@ Kubernetes App maintenance and coding, Database sytemctl design&maintenance
 
 ---
 
----
-<!-- Remove above link if you don't want to attibute -->
